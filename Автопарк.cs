@@ -44,7 +44,7 @@ namespace AUTOpark
                 return v.ToString();
             }
         }
-        public override string String()
+        public override string ToString()
         {
             return $"Марка: {lable}\nМощность:{power}\nГод производства: {yearCreate}\nКоличество пассажиров: {KolPas}\n\n";
         }
@@ -84,7 +84,7 @@ namespace AUTOpark
                 return y.ToString();
             }
         }
-        public override string String()
+        public override string ToString()
         {
             return $"Марка: {lable}\nМощность:{power}\nГод производства: {yearCreate}\nМаксимальная грузоподъёмность: {maxPow}\nФИ водителя: {name}\n\n";
         }
@@ -99,7 +99,7 @@ namespace AUTOpark
             smalCar = new List<PassengerCar>();
             bigCar = new List<Truck>();
         }
-        public override string String(string nul, string ok)
+        public override string ToString(string nul, string ok)
         {
             ok = "";
             nul = "";
