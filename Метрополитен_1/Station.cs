@@ -17,7 +17,7 @@ namespace Metro
         {
             this.name = name;
             this.color = color;
-            this.transfers = transfers;
+            this.transfers.AddRange(transfers);
         }
         public string GetName()
         {
