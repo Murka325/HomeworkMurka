@@ -1,0 +1,15 @@
+C:\Users\Я\source\repos\crazyPass\crazyPass\bin\Debug\crazyPass.exe.config
+C:\Users\Я\source\repos\crazyPass\crazyPass\bin\Debug\crazyPass.exe
+C:\Users\Я\source\repos\crazyPass\crazyPass\bin\Debug\crazyPass.pdb
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\MainWindow.g.cs
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\App.g.cs
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass_MarkupCompile.cache
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass_MarkupCompile.lref
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\MainWindow.baml
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass.g.resources
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass.Properties.Resources.resources
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass.csproj.GenerateResource.cache
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass.exe
+C:\Users\Я\source\repos\crazyPass\crazyPass\obj\Debug\crazyPass.pdb
